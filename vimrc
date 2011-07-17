@@ -6,4 +6,4 @@ set ai aw
 set et ts=8 sts=2 sw=2 
 
 " Display
-set nu
+set nu cul
