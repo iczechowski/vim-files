@@ -10,3 +10,4 @@ set whichwrap=<,>,[,],h,l
 set nu cul
 highlight CursorLine cterm=bold
 set laststatus=2
+set statusline=%<%F%h%m%r%h%w%y\ %{&ff}\ %=\ %c%V,%l\ %L\ %p%%\ %P
