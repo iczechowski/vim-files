@@ -9,3 +9,4 @@ set whichwrap=<,>,[,],h,l
 " Display
 set nu cul
 highlight CursorLine cterm=bold
+set laststatus=2
